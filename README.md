@@ -1,4 +1,3 @@
-
 # _Silex Shell Launcher_
 
 ##### _A small application to create the basic files needed in a Silex application, 9/12/2015 version 1.1 (alpha)_

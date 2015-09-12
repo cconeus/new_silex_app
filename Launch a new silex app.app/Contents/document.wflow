@@ -123,15 +123,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE." &gt;&gt; README.md
-echo "Congratulations! You just created a basic template. You will still need to do the following steps to complete your setup:
-
-1. Run composer install 
-2. Create your database
-3. Change the name of your project folder to match your current project 
-
-This new project folder can be found on your desktop. Hope this app helps!" &gt;&gt; launcher_info.txt
-open -a atom.app composer.json
-open -a textedit.app launcher_info.txt
+cd ~/desktop/new_silex_app
+open -a atom.app readme.md
 </string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
